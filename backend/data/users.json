@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Demo User",
+    "email": "demo@autoexplorer.com",
+    "password": "$2b$10$uXlt7hT3z.5e5KGVnWHFQ.N3D8iEFe.h9V2uqgk8AHfPZN.LztCzS",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "favoriteCount": 0,
+    "lastActivity": 1758808670453,
+    "preferences": {
+      "theme": "light",
+      "defaultView": "grid",
+      "itemsPerPage": 20
+    }
+  }
+]
