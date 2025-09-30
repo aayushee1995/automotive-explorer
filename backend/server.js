@@ -431,6 +431,7 @@ app.get("/cars/:id", (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`🚗 Auto MPG API Server running on http://localhost:${PORT}`);
+  console.log(`🚗 Server accessible on network at http://0.0.0.0:${PORT}`);
 });

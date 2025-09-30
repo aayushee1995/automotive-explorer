@@ -6,11 +6,20 @@
     "password": "$2b$10$uXlt7hT3z.5e5KGVnWHFQ.N3D8iEFe.h9V2uqgk8AHfPZN.LztCzS",
     "createdAt": "2024-01-01T00:00:00.000Z",
     "favoriteCount": 0,
-    "lastActivity": 1758822085150,
+    "lastActivity": 1759205300677,
     "preferences": {
       "theme": "light",
       "defaultView": "grid",
       "itemsPerPage": 20
     }
+  },
+  {
+    "id": 2,
+    "name": "aayushee",
+    "email": "aa@gmail.com",
+    "password": "$2b$10$I1OS40lvApCDotsgcl7qUuPg1bScdqovYMNfjAAQ.UmsFrZjuSfie",
+    "createdAt": "2025-09-25T17:59:41.887Z",
+    "favoriteCount": 0,
+    "lastActivity": 1759204669002
   }
 ]
